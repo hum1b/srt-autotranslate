@@ -1,5 +1,5 @@
 
-# Automatic Translator Using DeepL API
+# Tradutor automático usando DeepL API
 
 Este projeto é um tradutor automático que utiliza a API da **DeepL** para traduzir arquivos de legenda no formato `.srt`. Ele foi projetado para facilitar a tradução de múltiplos arquivos de uma vez, salvando os resultados em uma pasta chamada `exportados`. Para simplificar a execução, incluímos um arquivo `.bat` que automatiza todo o processo.
 
